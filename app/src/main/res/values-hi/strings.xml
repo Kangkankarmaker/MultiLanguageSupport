@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">হিস্যা</string>
+    <string name="navigation_drawer_open">খোল</string>
+    <string name="navigation_drawer_close">বন্দ</string>
+    <string name="nav_header_title">আন্দ্রইদ </string>
+    <string name="nav_header_subtitle">আন্দ্রইদ.স্তদিও@আন্দ্রইদ.কম</string>
+    <string name="nav_header_desc">নেভিগাতিওন</string>
+    <string name="action_settings">বাংলা</string>
+    <string name="tv_text">আইসস</string>
+    <string name="a">োমদল্</string>
+</resources>
